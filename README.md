@@ -2,4 +2,6 @@
 
 <h3>Level: Beginner</h3>
 
-Source code of the demo projects illustrated during the workshop. Also includes examples that we weren't able to talk about due to time pressure.
+Source code of the demo projects shown during the workshop. Also includes examples that we weren't able to talk about due to time pressure.
+
+Τhe WorkFlow projects file is a sample project meant to illustrate the life cycle of an android activity.
