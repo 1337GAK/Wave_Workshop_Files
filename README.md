@@ -1,4 +1,4 @@
-<b>Wave 2016 / Workshops </b>
+<b><h3>Wave 2016 / Workshops </h3></b>
 
 Introduction to Android App Development 
 
